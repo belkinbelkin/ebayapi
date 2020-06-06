@@ -21,7 +21,7 @@ import static com.belkbelk.tests.TestUtils.*;
 @SpringBootTest(classes = Application.class)
 public class JsonParsingTest {
 
-    Logger logger = LoggerFactory.getLogger(JsonParsingTest.class);
+    static Logger logger = LoggerFactory.getLogger(JsonParsingTest.class);
 
     @Autowired
     @Qualifier("textService")

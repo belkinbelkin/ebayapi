@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 @Service
 public class CategoryService {
 
-    Logger logger = LoggerFactory.getLogger(CategoryService.class);
+    static Logger logger = LoggerFactory.getLogger(CategoryService.class);
 
     private List<LabeledCategory> shoesCategories = new ArrayList<>();
 

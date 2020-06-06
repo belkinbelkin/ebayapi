@@ -12,8 +12,8 @@ import java.io.InputStream;
 
 @Service("textService")
 public class TextDataSource extends AbstractDataSource {
-    
-    Logger logger = LoggerFactory.getLogger(TextDataSource.class);
+
+    static Logger logger = LoggerFactory.getLogger(TextDataSource.class);
 
     @PostConstruct
     @Override
@@ -23,7 +23,7 @@ public class TextDataSource extends AbstractDataSource {
         try {
             result = mapper.readValue(stream, EbayApiSearchResult.class);
         } catch (IOException e) {
-            e.printStackTrace();
+            logger.error("Error in tests", e);
         }
         logger.info("Text service initialized");
     }

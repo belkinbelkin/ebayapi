@@ -2,6 +2,8 @@ package com.belkbelk.services;
 
 import com.belkbelk.abstractclasses.AbstractDataSource;
 import com.belkbelk.datastructures.EbayApiSearchResult;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -16,6 +18,8 @@ import java.util.ArrayList;
 @Service("apiService")
 public class EbayApiDataSource extends AbstractDataSource {
 
+    static Logger logger = LoggerFactory.getLogger(EbayApiDataSource.class);
+
     @Autowired
     ConfigProperties configProperties;
 
@@ -27,7 +31,7 @@ public class EbayApiDataSource extends AbstractDataSource {
 
     @Override
     public EbayApiSearchResult searchApiCall(String query, String categoryIds) {
-        System.out.println("Searching API with query: " + query);
+        logger.info("Searching API with query: " + query + " and category ids: " + categoryIds);
         String request = configProperties.getEbayApiTemplate() + query;
         if (!categoryIds.equals("")) {
             request = request + "&category_ids=" + categoryIds;
@@ -36,7 +40,7 @@ public class EbayApiDataSource extends AbstractDataSource {
             String resultString = getRequestResultAsString(request);
             return mapper.readValue(resultString, EbayApiSearchResult.class);
         } catch (Exception ex) {
-            ex.printStackTrace();
+            logger.error(ex.getMessage(), ex);
             return null;
         }
     }
@@ -48,7 +52,7 @@ public class EbayApiDataSource extends AbstractDataSource {
             resultString = getRequestResultAsString(url);
             return mapper.readValue(resultString, EbayApiSearchResult.class);
         } catch (IOException e) {
-            e.printStackTrace();
+            logger.error(e.getMessage(), e);
             return null;
         }
 
