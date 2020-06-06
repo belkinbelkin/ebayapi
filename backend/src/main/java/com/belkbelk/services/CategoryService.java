@@ -1,6 +1,8 @@
 package com.belkbelk.services;
 
 import com.belkbelk.datastructures.resultobjects.LabeledCategory;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.PostConstruct;
@@ -13,6 +15,8 @@ import java.util.stream.Collectors;
 
 @Service
 public class CategoryService {
+
+    Logger logger = LoggerFactory.getLogger(CategoryService.class);
 
     private List<LabeledCategory> shoesCategories = new ArrayList<>();
 
@@ -27,7 +31,7 @@ public class CategoryService {
                 shoesCategories.add(new LabeledCategory(removeFirstAndLast(pair.get(0)), removeFirstAndLast(pair.get(1))));
             }
         });
-        System.out.println("Category service initialized");
+        logger.info("Category service initialized");
     }
 
     public List<LabeledCategory> getCategories() {

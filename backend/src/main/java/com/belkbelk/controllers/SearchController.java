@@ -8,7 +8,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.*;
 
-import javax.annotation.PostConstruct;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
@@ -24,11 +23,7 @@ public class SearchController {
     @Autowired
     @Qualifier("apiService")
     AbstractDataSource dataSource;
-
-    @PostConstruct
-    public void init() {
-        System.out.println("controller operational");
-    }
+    
 
     @GetMapping("/get_examples")
     public Set<String> getExamples() {

@@ -2,6 +2,8 @@ package com.belkbelk.services;
 
 import com.belkbelk.abstractclasses.AbstractDataSource;
 import com.belkbelk.datastructures.EbayApiSearchResult;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.PostConstruct;
@@ -10,6 +12,8 @@ import java.io.InputStream;
 
 @Service("textService")
 public class TextDataSource extends AbstractDataSource {
+    
+    Logger logger = LoggerFactory.getLogger(TextDataSource.class);
 
     @PostConstruct
     @Override
@@ -21,7 +25,7 @@ public class TextDataSource extends AbstractDataSource {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println("Text service initialized");
+        logger.info("Text service initialized");
     }
 
     EbayApiSearchResult result;

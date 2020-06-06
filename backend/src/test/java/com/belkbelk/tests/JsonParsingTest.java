@@ -7,6 +7,8 @@ import com.belkbelk.datastructures.EbayApiSearchResultEntry;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -19,6 +21,8 @@ import static com.belkbelk.tests.TestUtils.*;
 @SpringBootTest(classes = Application.class)
 public class JsonParsingTest {
 
+    Logger logger = LoggerFactory.getLogger(JsonParsingTest.class);
+
     @Autowired
     @Qualifier("textService")
     AbstractDataSource dataSource;
@@ -26,9 +30,7 @@ public class JsonParsingTest {
     @Test
     public void testResultObjectValidity() {
 
-        printSeparator();
-        System.out.println("Checking if all necessary fields are present");
-        printSeparator();
+        logger.info("Checking if all necessary fields are present");
 
         EbayApiSearchResult result = dataSource.searchApiCall("shoes", "");
         Assert.assertNotNull(result.getItemSummaries());
@@ -45,9 +47,7 @@ public class JsonParsingTest {
         testString(entry.getImage().getImageUrl());
         Assert.assertTrue(urlIsValid(entry.getImage().getImageUrl()));
 
-        printSeparator();
-        System.out.println("Parsed object is valid, all necessary fields are present");
-        printSeparator();
+        logger.info("Parsed object is valid, all necessary fields are present");
 
     }
 
