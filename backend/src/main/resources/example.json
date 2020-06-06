@@ -1,0 +1,2776 @@
+{
+  "href": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=shoes&limit=50&offset=0",
+  "total": 4242541,
+  "next": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=shoes&limit=50&offset=50",
+  "limit": 50,
+  "offset": "0",
+  "itemSummaries": [{
+    "itemId": "v1|193435580815|493640152146",
+    "title": "New Balance Men's DRFT Shoes Black",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/m9ygOxd7QSuBeSO07qnu1CA/s-l225.jpg"
+    },
+    "price": {
+      "value": "28.20",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|193435580815|493640152146",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/New-Balance-Mens-DRFT-Shoes-Black/193435580815?hash=item2d09a8b98f:m:m9ygOxd7QSuBeSO07qnu1CA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193435580815_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193435580815_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193435580815_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193435580815_5_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "193435580815",
+    "availableCoupons": false,
+    "seller": {
+      "username": "joesoutlet",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 140146
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|174185793362|473095331752",
+    "title": "Reebok Men's Rise Supreme RG Shoes",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mR1oXed2X7RBvdREDIH6OBQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "21.50",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|174185793362|473095331752",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Reebok-Mens-Rise-Supreme-RG-Shoes/174185793362?hash=item288e484752:m:mR1oXed2X7RBvdREDIH6OBQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "158952"
+    }, {
+      "categoryId": "888"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "15273"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "158916"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174185793362_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174185793362_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174185793362_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174185793362_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174185793362_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174185793362_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174185793362_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174185793362_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "174185793362",
+    "availableCoupons": false,
+    "seller": {
+      "username": "reebok_official",
+      "feedbackPercentage": "98.7",
+      "feedbackScore": 68843
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|353080815115|622273650666",
+    "title": "Men's Athletic Sneakers Fashion Casual Running Jogging Tennis Walking Shoes Gym",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mpToylWPcF33zY6nn7JeJug/s-l225.jpg"
+    },
+    "price": {
+      "value": "20.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|353080815115|622273650666",
+    "condition": "New without box",
+    "conditionId": "1500",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Mens-Athletic-Sneakers-Fashion-Casual-Running-Jogging-Tennis-Walking-Shoes-Gym/353080815115?hash=item523541ae0b:m:mpToylWPcF33zY6nn7JeJug",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/353080815115_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/353080815115_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/353080815115_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/353080815115_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/353080815115_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/353080815115_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/353080815115_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/353080815115_9_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/353080815115_10_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/353080815115_11_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/353080815115_12_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "353080815115",
+    "availableCoupons": false,
+    "seller": {
+      "username": "yellowstar-0",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 61
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153898060892|453953464487",
+    "title": "adidas Originals X_PLR Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/m9iL5xi5VXTb1eVNLL-0U5A/s-l225.jpg"
+    },
+    "price": {
+      "value": "34.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153898060892|453953464487",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Originals-X-PLR-Shoes-Mens/153898060892?hash=item23d50a0c5c:m:m9iL5xi5VXTb1eVNLL-0U5A",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153898060892_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153898060892_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153898060892_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153898060892_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153898060892_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153898060892_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153898060892_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153898060892_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153898060892",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257776
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|193433455163|493637159217",
+    "title": "New Balance Men's Fresh Foam Evare Shoes Grey",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mEQJwZunElt655Ielp2hbMA/s-l225.jpg"
+    },
+    "price": {
+      "value": "42.30",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|193433455163|493637159217",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/New-Balance-Mens-Fresh-Foam-Evare-Shoes-Grey/193433455163?hash=item2d09884a3b:m:mEQJwZunElt655Ielp2hbMA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193433455163_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193433455163_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193433455163_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193433455163_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193433455163_6_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "193433455163",
+    "availableCoupons": false,
+    "seller": {
+      "username": "joesoutlet",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 140143
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153929829338|453997499757",
+    "title": "adidas Advantage Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mNts7gQGyoQ1rDbm_RcY9jQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "32.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153929829338|453997499757",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Advantage-Shoes-Mens/153929829338?hash=item23d6eecbda:m:mNts7gQGyoQ1rDbm_RcY9jQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153929829338_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153929829338_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153929829338_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153929829338_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153929829338_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153929829338_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153929829338_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153929829338_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153929829338",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257776
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|193174909286|493365289065",
+    "title": "New Balance Men's 517v1 Shoes Grey with Grey & Red",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/m0LjP5tASqa0Th8lLAI-3WQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "28.20",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|193174909286|493365289065",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/New-Balance-Mens-517v1-Shoes-Grey-with-Grey-Red/193174909286?hash=item2cfa1f3166:m:m0LjP5tASqa0Th8lLAI-3WQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193174909286_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193174909286_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193174909286_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193174909286_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193174909286_6_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "193174909286",
+    "availableCoupons": false,
+    "seller": {
+      "username": "joesoutlet",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 140143
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|174231781722|473166112611",
+    "title": "Reebok Fulgere Men's Slide Shoes",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mZ6jl31Vs2RFw1LUW604hvA/s-l225.jpg"
+    },
+    "price": {
+      "value": "15.00",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|174231781722|473166112611",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Reebok-Fulgere-Mens-Slide-Shoes/174231781722?hash=item289106015a:m:mZ6jl31Vs2RFw1LUW604hvA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11504"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781722_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781722_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781722_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781722_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781722_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781722_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781722_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781722_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "174231781722",
+    "availableCoupons": false,
+    "seller": {
+      "username": "reebok_official",
+      "feedbackPercentage": "98.7",
+      "feedbackScore": 68838
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|174211015067|473166114246",
+    "title": "Reebok Flexagon Force 2 Men's Training Shoes",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mZ102qnEB_cb7SeEIQvBw9A/s-l225.jpg"
+    },
+    "price": {
+      "value": "29.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|174211015067|473166114246",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Reebok-Flexagon-Force-2-Mens-Training-Shoes/174211015067?hash=item288fc9219b:m:mZ102qnEB_cb7SeEIQvBw9A",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "158952"
+    }, {
+      "categoryId": "888"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "15273"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "158916"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174211015067_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174211015067_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174211015067_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174211015067_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174211015067_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174211015067_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174211015067_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174211015067_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "174211015067",
+    "availableCoupons": false,
+    "seller": {
+      "username": "reebok_official",
+      "feedbackPercentage": "98.7",
+      "feedbackScore": 68844
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153932972568|454001031860",
+    "title": "adidas Originals LXCON Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mHRb-U8AcjhiCo_fYbesHvg/s-l225.jpg"
+    },
+    "price": {
+      "value": "45.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153932972568|454001031860",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Originals-LXCON-Shoes-Mens/153932972568?hash=item23d71ec218:m:mHRb-U8AcjhiCo_fYbesHvg",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153932972568_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153932972568_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153932972568_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153932972568_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153932972568_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153932972568_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153932972568_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153932972568_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153932972568",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257769
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|193473456117|493682133643",
+    "title": "New Balance Men's Fresh Foam Arishi Trail Shoes Grey with Blue",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mH29RK6CnmlMuV1o8Y3wE9g/s-l225.jpg"
+    },
+    "price": {
+      "value": "42.29",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|193473456117|493682133643",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/New-Balance-Mens-Fresh-Foam-Arishi-Trail-Shoes-Grey-with-Blue/193473456117?hash=item2d0beaa7f5:m:mH29RK6CnmlMuV1o8Y3wE9g",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193473456117_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193473456117_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193473456117_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193473456117_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193473456117_6_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "193473456117",
+    "availableCoupons": false,
+    "seller": {
+      "username": "joesoutlet",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 140144
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|193414329962|493614124743",
+    "title": "New Balance Men's Vizo Pro Run Knit Shoes Black",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mPbZ2JEO6ysaSMY5fM6INqQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "32.90",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|193414329962|493614124743",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/New-Balance-Mens-Vizo-Pro-Run-Knit-Shoes-Black/193414329962?hash=item2d0864766a:m:mPbZ2JEO6ysaSMY5fM6INqQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193414329962_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193414329962_3_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "193414329962",
+    "availableCoupons": false,
+    "seller": {
+      "username": "joesoutlet",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 140134
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153916092906|453981551614",
+    "title": "adidas Sensebounce+ Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mWnl_2JBdefq8fa9bs68ATQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "39.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153916092906|453981551614",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Sensebounce-Shoes-Mens/153916092906?hash=item23d61d31ea:m:mWnl_2JBdefq8fa9bs68ATQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153916092906_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153916092906_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153916092906_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153916092906_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153916092906_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153916092906_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153916092906_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153916092906_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153916092906",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257776
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|283540979481|584732682159",
+    "title": "Water Shoes Quick Dry Barefoot for Swim Diving Surf Aqua Sport Beach Vaction",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mnISlb_s8yvRaKyH63S8_DQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "21.97",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|283540979481|584732682159",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Water-Shoes-Quick-Dry-Barefoot-for-Swim-Diving-Surf-Aqua-Sport-Beach-Vaction/283540979481?hash=item42045bff19:m:mnISlb_s8yvRaKyH63S8_DQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "159145"
+    }, {
+      "categoryId": "888"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "159136"
+    }, {
+      "categoryId": "159142"
+    }, {
+      "categoryId": "159143"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/283540979481_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/283540979481_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/283540979481_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/283540979481_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/283540979481_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/283540979481_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/283540979481_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/283540979481_9_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/283540979481_10_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/283540979481_11_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "283540979481",
+    "availableCoupons": false,
+    "seller": {
+      "username": "nexete",
+      "feedbackPercentage": "99.0",
+      "feedbackScore": 6483
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|324124903300|513175215733",
+    "title": "New Balance Men's Fresh Foam Hierro v5 Trail Shoes Black with Grey",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mabQ94NFSv8r-VaRpzmKI7w/s-l225.jpg"
+    },
+    "price": {
+      "value": "63.45",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|324124903300|513175215733",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/New-Balance-Mens-Fresh-Foam-Hierro-v5-Trail-Shoes-Black-with-Grey/324124903300?hash=item4b77598784:m:mabQ94NFSv8r-VaRpzmKI7w",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324124903300_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324124903300_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324124903300_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324124903300_5_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "324124903300",
+    "availableCoupons": false,
+    "seller": {
+      "username": "joesoutlet",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 140134
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|114152995209|414410976130",
+    "title": "ASICS Tiger Men's GEL-Mai Shoes 1191A198",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mcAstCipulHdTEXjIpt07sA/s-l225.jpg"
+    },
+    "price": {
+      "value": "36.95",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|114152995209|414410976130",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/ASICS-Tiger-Mens-GEL-Mai-Shoes-1191A198/114152995209?hash=item1a940c7989:m:mcAstCipulHdTEXjIpt07sA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995209_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995209_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995209_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995209_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995209_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995209_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995209_8_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "114152995209",
+    "availableCoupons": false,
+    "seller": {
+      "username": "asicsamerica",
+      "feedbackPercentage": "98.1",
+      "feedbackScore": 120559
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|274193995281|574362938834",
+    "title": "PUMA Enzo 2 Men's Training Shoes Men Shoe Running",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/midRFKlxVRp4n9UbY6QYcYA/s-l225.jpg"
+    },
+    "price": {
+      "value": "29.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|274193995281|574362938834",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/PUMA-Enzo-2-Mens-Training-Shoes-Men-Shoe-Running/274193995281?hash=item3fd73c5611:m:midRFKlxVRp4n9UbY6QYcYA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [],
+    "adultOnly": false,
+    "legacyItemId": "274193995281",
+    "availableCoupons": false,
+    "seller": {
+      "username": "officialpumastore",
+      "feedbackPercentage": "98.0",
+      "feedbackScore": 141627
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153830034148|453937500806",
+    "title": "adidas Originals I-5923 Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/m7x_dQSO-brD61CS2UcTrGg/s-l225.jpg"
+    },
+    "price": {
+      "value": "39.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153830034148|453937500806",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Originals-I-5923-Shoes-Mens/153830034148?hash=item23d0fc0ae4:m:m7x_dQSO-brD61CS2UcTrGg",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153830034148_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153830034148_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153830034148_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153830034148_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153830034148_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153830034148_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153830034148_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153830034148_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153830034148",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257769
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|174231781789|473166113319",
+    "title": "Reebok Lite 2 Men's Shoes",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mURhG4ik-pTA8UMYUmnRHJQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "24.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|174231781789|473166113319",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Reebok-Lite-2-Mens-Shoes/174231781789?hash=item289106019d:m:mURhG4ik-pTA8UMYUmnRHJQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "158952"
+    }, {
+      "categoryId": "888"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "15273"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "158916"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781789_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781789_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781789_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781789_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781789_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781789_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781789_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781789_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "174231781789",
+    "availableCoupons": false,
+    "seller": {
+      "username": "reebok_official",
+      "feedbackPercentage": "98.7",
+      "feedbackScore": 68838
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153815804449|453849176170",
+    "title": "adidas Originals Kamanda Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mOuKppxAzncZcbV8srdP5Hw/s-l225.jpg"
+    },
+    "price": {
+      "value": "44.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153815804449|453849176170",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Originals-Kamanda-Shoes-Mens/153815804449?hash=item23d022ea21:m:mOuKppxAzncZcbV8srdP5Hw",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153815804449_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153815804449_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153815804449_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153815804449_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153815804449_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153815804449_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153815804449_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153815804449_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153815804449",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257761
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|324156037273|513210987049",
+    "title": "New Balance Men's VATU Shoes Grey",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mLLt-QI245uoCXXX-wablsw/s-l225.jpg"
+    },
+    "price": {
+      "value": "36.65",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|324156037273|513210987049",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/New-Balance-Mens-VATU-Shoes-Grey/324156037273?hash=item4b79349899:m:mLLt-QI245uoCXXX-wablsw",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324156037273_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324156037273_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324156037273_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324156037273_5_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "324156037273",
+    "availableCoupons": false,
+    "seller": {
+      "username": "joesoutlet",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 140143
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|174177001534|473084218677",
+    "title": "Reebok Flexagon Force 2 Extra-Wide Men's Training Shoes",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/m30TrspTcg95x_xyvbDulRw/s-l225.jpg"
+    },
+    "price": {
+      "value": "29.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|174177001534|473084218677",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Reebok-Flexagon-Force-2-Extra-Wide-Mens-Training-Shoes/174177001534?hash=item288dc2203e:m:m30TrspTcg95x_xyvbDulRw",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "158952"
+    }, {
+      "categoryId": "888"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "15273"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "158916"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001534_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001534_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001534_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001534_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001534_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001534_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001534_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001534_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "174177001534",
+    "availableCoupons": false,
+    "seller": {
+      "username": "reebok_official",
+      "feedbackPercentage": "98.7",
+      "feedbackScore": 68844
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|274069072098|574148486079",
+    "title": "PUMA Redon Move Men's Shoes Men Shoe Sport Shoe",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mXBXEomNr5q-V0Bm03BauYQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "29.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|274069072098|574148486079",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/PUMA-Redon-Move-Mens-Shoes-Men-Shoe-Sport-Shoe/274069072098?hash=item3fcfca28e2:m:mXBXEomNr5q-V0Bm03BauYQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [],
+    "adultOnly": false,
+    "legacyItemId": "274069072098",
+    "availableCoupons": false,
+    "seller": {
+      "username": "officialpumastore",
+      "feedbackPercentage": "98.0",
+      "feedbackScore": 141638
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153928171360|453995696160",
+    "title": "adidas Originals Forest Grove Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mlsQhvXQOWv0cYuZRrIUOEQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "31.50",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153928171360|453995696160",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Originals-Forest-Grove-Shoes-Mens/153928171360?hash=item23d6d57f60:m:mlsQhvXQOWv0cYuZRrIUOEQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171360_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171360_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171360_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171360_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171360_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171360_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171360_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171360_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153928171360",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257769
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153894289052|453948414856",
+    "title": "adidas Originals Nizza Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mktMNA36oaRbSlcBm3phMHg/s-l225.jpg"
+    },
+    "price": {
+      "value": "34.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153894289052|453948414856",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Originals-Nizza-Shoes-Mens/153894289052?hash=item23d4d07e9c:m:mktMNA36oaRbSlcBm3phMHg",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153894289052_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153894289052_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153894289052_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153894289052_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153894289052_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153894289052_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153894289052_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153894289052_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153894289052",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257776
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153922754649|453989970708",
+    "title": "adidas Alphabounce+ Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/m3QzaFyrKuWWWhTitPcsbCQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "42.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153922754649|453989970708",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Alphabounce-Shoes-Mens/153922754649?hash=item23d682d859:m:m3QzaFyrKuWWWhTitPcsbCQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153922754649_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153922754649_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153922754649_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153922754649_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153922754649_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153922754649_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153922754649_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153922754649_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153922754649",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257776
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|303506506290|602715972655",
+    "title": "Vans CLASSIC SLIP-ON BlackOnBlack/BlackWhite Canvas Shoes All Size Fast Shipping",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mCXETBJad86CfBX2H5EM4kQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "59.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|303506506290|602715972655",
+    "condition": "New without box",
+    "conditionId": "1500",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Vans-CLASSIC-SLIP-ON-BlackOnBlack-BlackWhite-Canvas-Shoes-All-Size-Fast-Shipping/303506506290?hash=item46aa65c232:m:mCXETBJad86CfBX2H5EM4kQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [],
+    "adultOnly": false,
+    "legacyItemId": "303506506290",
+    "availableCoupons": false,
+    "seller": {
+      "username": "nickwear2016",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 6681
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|174217258465|473134873333",
+    "title": "Reebok PennyMoon Men's Shoes",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mZkNfRsa_2RI9TA9gr4DQmw/s-l225.jpg"
+    },
+    "price": {
+      "value": "27.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|174217258465|473134873333",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Reebok-PennyMoon-Mens-Shoes/174217258465?hash=item28902865e1:m:mZkNfRsa_2RI9TA9gr4DQmw",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "158952"
+    }, {
+      "categoryId": "888"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "15273"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "158916"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258465_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258465_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258465_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258465_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258465_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258465_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258465_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258465_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "174217258465",
+    "availableCoupons": false,
+    "seller": {
+      "username": "reebok_official",
+      "feedbackPercentage": "98.7",
+      "feedbackScore": 68843
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153899134726|453955339243",
+    "title": "adidas Originals Rising StarxR1 Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mQB2nrembanrYIhmPy_JKrg/s-l225.jpg"
+    },
+    "price": {
+      "value": "41.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153899134726|453955339243",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Originals-Rising-StarxR1-Shoes-Mens/153899134726?hash=item23d51a6f06:m:mQB2nrembanrYIhmPy_JKrg",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153899134726_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153899134726_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153899134726_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153899134726_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153899134726_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153899134726_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153899134726_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153899134726_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153899134726",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257769
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|283734758099|585143089042",
+    "title": "PUMA BMW M Motorsport Future Kart Cat Men's Shoes Men Shoe Auto",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mg34urXKGmnw3Tklks9oH0w/s-l225.jpg"
+    },
+    "price": {
+      "value": "29.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|283734758099|585143089042",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/PUMA-BMW-M-Motorsport-Future-Kart-Cat-Mens-Shoes-Men-Shoe-Auto/283734758099?hash=item420fe8d2d3:m:mg34urXKGmnw3Tklks9oH0w",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [],
+    "adultOnly": false,
+    "legacyItemId": "283734758099",
+    "availableCoupons": false,
+    "seller": {
+      "username": "officialpumastore",
+      "feedbackPercentage": "98.0",
+      "feedbackScore": 141638
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|274319706094|574427341425",
+    "title": "PUMA CELL Vorto Training Shoes Men Shoe Running",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/m9oyzxduvuYQnhSTTdId3WA/s-l225.jpg"
+    },
+    "price": {
+      "value": "34.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|274319706094|574427341425",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/PUMA-CELL-Vorto-Training-Shoes-Men-Shoe-Running/274319706094?hash=item3fdeba87ee:m:m9oyzxduvuYQnhSTTdId3WA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [],
+    "adultOnly": false,
+    "legacyItemId": "274319706094",
+    "availableCoupons": false,
+    "seller": {
+      "username": "officialpumastore",
+      "feedbackPercentage": "98.0",
+      "feedbackScore": 141638
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153901380887|453959523527",
+    "title": "adidas Archivo Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/myzWBA02gGVrkmGOx4DFRJQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "29.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153901380887|453959523527",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Archivo-Shoes-Mens/153901380887?hash=item23d53cb517:m:myzWBA02gGVrkmGOx4DFRJQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153901380887_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153901380887_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153901380887_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153901380887_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153901380887_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153901380887_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153901380887_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153901380887_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153901380887",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257767
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|174231781771|473166113106",
+    "title": "Reebok ZigWild Trail 6 Men's Shoes",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mmCqRJYgXAWXjXGZcrXOSPA/s-l225.jpg"
+    },
+    "price": {
+      "value": "60.00",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|174231781771|473166113106",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Reebok-ZigWild-Trail-6-Mens-Shoes/174231781771?hash=item289106018b:m:mmCqRJYgXAWXjXGZcrXOSPA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "158952"
+    }, {
+      "categoryId": "888"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "15273"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "158916"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781771_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781771_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781771_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781771_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781771_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781771_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781771_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174231781771_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "174231781771",
+    "availableCoupons": false,
+    "seller": {
+      "username": "reebok_official",
+      "feedbackPercentage": "98.7",
+      "feedbackScore": 68840
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153928171411|454026995278",
+    "title": "adidas Originals Lite Racer BYD Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mtUZlXKYbZQ5BGPNC--WAkw/s-l225.jpg"
+    },
+    "price": {
+      "value": "32.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153928171411|454026995278",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Originals-Lite-Racer-BYD-Shoes-Mens/153928171411?hash=item23d6d57f93:m:mtUZlXKYbZQ5BGPNC--WAkw",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171411_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171411_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171411_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171411_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171411_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171411_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171411_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153928171411_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153928171411",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257776
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153853103071|453893141986",
+    "title": "adidas Originals Yung-96 Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mawLD4OkCxCOaA-jbSxvgCA/s-l225.jpg"
+    },
+    "price": {
+      "value": "31.50",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153853103071|453893141986",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Originals-Yung-96-Shoes-Mens/153853103071?hash=item23d25c0bdf:m:mawLD4OkCxCOaA-jbSxvgCA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153853103071_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153853103071_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153853103071_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153853103071_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153853103071_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153853103071_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153853103071_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153853103071_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153853103071",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257776
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|193450902877|493657568211",
+    "title": "New Balance Men's VATU Shoes Black",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mTPjcqmKJjRKH8vD3ecU__Q/s-l225.jpg"
+    },
+    "price": {
+      "value": "36.65",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|193450902877|493657568211",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/New-Balance-Mens-VATU-Shoes-Black/193450902877?hash=item2d0a92855d:m:mTPjcqmKJjRKH8vD3ecU__Q",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193450902877_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/193450902877_3_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "193450902877",
+    "availableCoupons": false,
+    "seller": {
+      "username": "joesoutlet",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 140143
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|324030549202|513075267328",
+    "title": "New Balance Men's Fuel Core Vizo Pro Run Shoes Grey with Yellow",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/m9BB3KaGfM0EG3dGTSF4xPA/s-l225.jpg"
+    },
+    "price": {
+      "value": "28.20",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|324030549202|513075267328",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/New-Balance-Mens-Fuel-Core-Vizo-Pro-Run-Shoes-Grey-with-Yellow/324030549202?hash=item4b71b9ccd2:m:m9BB3KaGfM0EG3dGTSF4xPA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324030549202_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324030549202_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324030549202_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324030549202_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/324030549202_6_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "324030549202",
+    "availableCoupons": false,
+    "seller": {
+      "username": "joesoutlet",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 140134
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|174217258033|473134870000",
+    "title": "Reebok Astroride Trail 2 Men's Shoes",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mRE7ztUBydG1NtMUU2vuSFQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "31.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|174217258033|473134870000",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Reebok-Astroride-Trail-2-Mens-Shoes/174217258033?hash=item2890286431:m:mRE7ztUBydG1NtMUU2vuSFQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "158952"
+    }, {
+      "categoryId": "888"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "15273"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "158916"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258033_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258033_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258033_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258033_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258033_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258033_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258033_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174217258033_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "174217258033",
+    "availableCoupons": false,
+    "seller": {
+      "username": "reebok_official",
+      "feedbackPercentage": "98.7",
+      "feedbackScore": 68812
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|114152995161|414410975963",
+    "title": "ASICS Tiger Men's GEL-Lyte Shoes 1191A166",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mNUwiQ87Y7-Vyvis2d_Z2gA/s-l225.jpg"
+    },
+    "price": {
+      "value": "36.95",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|114152995161|414410975963",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/ASICS-Tiger-Mens-GEL-Lyte-Shoes-1191A166/114152995161?hash=item1a940c7959:m:mNUwiQ87Y7-Vyvis2d_Z2gA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995161_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995161_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995161_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995161_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995161_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995161_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/114152995161_8_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "114152995161",
+    "availableCoupons": false,
+    "seller": {
+      "username": "asicsamerica",
+      "feedbackPercentage": "98.1",
+      "feedbackScore": 120559
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|174177001115|473084210609",
+    "title": "Reebok Men's Trideca 200 Shoes",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mBaYQx94w35JTDsbJ5SpZnA/s-l225.jpg"
+    },
+    "price": {
+      "value": "40.00",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|174177001115|473084210609",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Reebok-Mens-Trideca-200-Shoes/174177001115?hash=item288dc21e9b:m:mBaYQx94w35JTDsbJ5SpZnA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "158952"
+    }, {
+      "categoryId": "888"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "15273"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "158916"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001115_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001115_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001115_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001115_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001115_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001115_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001115_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174177001115_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "174177001115",
+    "availableCoupons": false,
+    "seller": {
+      "username": "reebok_official",
+      "feedbackPercentage": "98.7",
+      "feedbackScore": 68810
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|283647304361|585143088332",
+    "title": "PUMA Scuderia Ferrari Drift Cat 5 Ultra II Men's Shoes Men Shoe Auto",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mgJ7MgXHgWUVEc25DU_giqQ/s-l225.jpg"
+    },
+    "price": {
+      "value": "59.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|283647304361|585143088332",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/PUMA-Scuderia-Ferrari-Drift-Cat-5-Ultra-II-Mens-Shoes-Men-Shoe-Auto/283647304361?hash=item420ab262a9:m:mgJ7MgXHgWUVEc25DU_giqQ",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [],
+    "adultOnly": false,
+    "legacyItemId": "283647304361",
+    "availableCoupons": false,
+    "seller": {
+      "username": "officialpumastore",
+      "feedbackPercentage": "98.0",
+      "feedbackScore": 141638
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|254170338508|553603167080",
+    "title": "Water Shoes Barefoot Skin Socks Quick-Dry Aqua Beach Swim Water Sports Vacation ",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mQzmMpFCAyrKOckw4boYDNA/s-l225.jpg"
+    },
+    "price": {
+      "value": "17.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|254170338508|553603167080",
+    "condition": "New without box",
+    "conditionId": "1500",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Water-Shoes-Barefoot-Skin-Socks-Quick-Dry-Aqua-Beach-Swim-Water-Sports-Vacation/254170338508?hash=item3b2dbb94cc:m:mQzmMpFCAyrKOckw4boYDNA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "24087"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/254170338508_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/254170338508_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/254170338508_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/254170338508_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/254170338508_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/254170338508_7_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "254170338508",
+    "availableCoupons": false,
+    "seller": {
+      "username": "yogaus",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 6402
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153886895022|453937672361",
+    "title": "adidas Originals Streetball Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/m7Di460FUKoyx5ZGEmAx0Lg/s-l225.jpg"
+    },
+    "price": {
+      "value": "49.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153886895022|453937672361",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Originals-Streetball-Shoes-Mens/153886895022?hash=item23d45fabae:m:m7Di460FUKoyx5ZGEmAx0Lg",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153886895022_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153886895022_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153886895022_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153886895022_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153886895022_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153886895022_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153886895022_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153886895022_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153886895022",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257767
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|283734758128|585143089593",
+    "title": "PUMA CELL Pharos Men's Training Shoes Men Shoe Running",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mP2OQ8tfFIcSLbqS7pn3sow/s-l225.jpg"
+    },
+    "price": {
+      "value": "34.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|283734758128|585143089593",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/PUMA-CELL-Pharos-Mens-Training-Shoes-Men-Shoe-Running/283734758128?hash=item420fe8d2f0:m:mP2OQ8tfFIcSLbqS7pn3sow",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [],
+    "adultOnly": false,
+    "legacyItemId": "283734758128",
+    "availableCoupons": false,
+    "seller": {
+      "username": "officialpumastore",
+      "feedbackPercentage": "98.0",
+      "feedbackScore": 141638
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|273422729552|574125545965",
+    "title": "PUMA Viz Runner Menâ€™s Sneakers Men Shoe Running",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mqOWXqaiJru39yJcPoan64g/s-l225.jpg"
+    },
+    "price": {
+      "value": "29.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|273422729552|574125545965",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/PUMA-Viz-Runner-Men-s-Sneakers-Men-Shoe-Running/273422729552?hash=item3fa943c150:m:mqOWXqaiJru39yJcPoan64g",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [],
+    "adultOnly": false,
+    "legacyItemId": "273422729552",
+    "availableCoupons": false,
+    "seller": {
+      "username": "officialpumastore",
+      "feedbackPercentage": "98.0",
+      "feedbackScore": 141638
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|174180011627|473088795727",
+    "title": "Reebok Men's Trideca 200 Shoes",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mvtOZHQ8_-0ORsYlZmeE-Nw/s-l225.jpg"
+    },
+    "price": {
+      "value": "40.00",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|174180011627|473088795727",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Reebok-Mens-Trideca-200-Shoes/174180011627?hash=item288df00e6b:m:mvtOZHQ8_-0ORsYlZmeE-Nw",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "158952"
+    }, {
+      "categoryId": "888"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "15273"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "158916"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174180011627_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174180011627_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174180011627_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174180011627_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174180011627_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174180011627_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174180011627_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/174180011627_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "174180011627",
+    "availableCoupons": false,
+    "seller": {
+      "username": "reebok_official",
+      "feedbackPercentage": "98.7",
+      "feedbackScore": 68843
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|192961379864|493156319787",
+    "title": "New Balance Men's NITREL v3 Trail Shoes Black with Grey",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/m-STrUw2wDY52gjjz6LHHIA/s-l225.jpg"
+    },
+    "price": {
+      "value": "28.20",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|192961379864|493156319787",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/New-Balance-Mens-NITREL-v3-Trail-Shoes-Black-with-Grey/192961379864?hash=item2ced64fe18:m:m-STrUw2wDY52gjjz6LHHIA",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/192961379864_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/192961379864_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/192961379864_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/192961379864_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/192961379864_6_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "192961379864",
+    "availableCoupons": false,
+    "seller": {
+      "username": "joesoutlet",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 140134
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|303482549446|602698364173",
+    "title": "Bruno Marc Men's Slip On Sneakers Walking Loafers Sidewalk Canvas Casual Shoes",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mExcgsMy9xCt_TJrI8tCFNw/s-l225.jpg"
+    },
+    "price": {
+      "value": "25.64",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|303482549446|602698364173",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/Bruno-Marc-Mens-Slip-On-Sneakers-Walking-Loafers-Sidewalk-Canvas-Casual-Shoes/303482549446?hash=item46a8f834c6:m:mExcgsMy9xCt_TJrI8tCFNw",
+    "categories": [{
+      "categoryId": "24087"
+    }, {
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [],
+    "adultOnly": false,
+    "legacyItemId": "303482549446",
+    "availableCoupons": false,
+    "seller": {
+      "username": "topshoesusinc",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 33733
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153862663594|453968717047",
+    "title": "adidas Questar Flow Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/m7W3CEujLfz3p92EGat__rg/s-l225.jpg"
+    },
+    "price": {
+      "value": "53.00",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153862663594|453968717047",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Questar-Flow-Shoes-Mens/153862663594?hash=item23d2ededaa:m:m7W3CEujLfz3p92EGat__rg",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153862663594_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153862663594_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153862663594_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153862663594_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153862663594_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153862663594_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153862663594_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153862663594_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153862663594",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257769
+    },
+    "itemLocationObject": null
+  }, {
+    "itemId": "v1|153870030322|453914285335",
+    "title": "adidas Originals Samba OG Shoes Men's",
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/m/mM_h1S422BmkyNPiMrusp3Q/s-l225.jpg"
+    },
+    "price": {
+      "value": "39.99",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|153870030322|453914285335",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "thumbnailImages": [],
+    "shippingOptions": [{
+      "shippingCostType": "FIXED",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      }
+    }],
+    "buyingOptions": ["FIXED_PRICE"],
+    "itemWebUrl": "https://www.ebay.com/itm/adidas-Originals-Samba-OG-Shoes-Mens/153870030322?hash=item23d35e55f2:m:mM_h1S422BmkyNPiMrusp3Q",
+    "categories": [{
+      "categoryId": "15709"
+    }, {
+      "categoryId": "11450"
+    }, {
+      "categoryId": "93427"
+    }, {
+      "categoryId": "260012"
+    }],
+    "additionalImages": [{
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153870030322_2_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153870030322_3_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153870030322_4_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153870030322_5_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153870030322_6_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153870030322_7_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153870030322_8_0_1/225x225.jpg"
+    }, {
+      "imageUrl": "https://galleryplus.ebayimg.com/ws/web/153870030322_9_0_1/225x225.jpg"
+    }],
+    "adultOnly": false,
+    "legacyItemId": "153870030322",
+    "availableCoupons": false,
+    "seller": {
+      "username": "adidas_official",
+      "feedbackPercentage": "97.5",
+      "feedbackScore": 257769
+    },
+    "itemLocationObject": null
+  }]
+}
