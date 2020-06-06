@@ -1,0 +1,32 @@
+.search-results-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2em;
+}
+
+
+.result-item-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    margin: 1em;
+    padding: 1em;
+    cursor: pointer;
+    justify-content: space-evenly;
+}
+
+.result-item-wrapper:hover {
+    border-radius: 10px;
+    box-shadow: gainsboro 2px 3px 3px 2px;
+}
+
+.result-item-image {
+    margin-bottom: 1em;
+}
+
+.result-item-price {
+    font-weight: bold;
+}
