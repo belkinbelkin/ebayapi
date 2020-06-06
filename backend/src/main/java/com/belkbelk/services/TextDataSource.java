@@ -13,7 +13,7 @@ import java.io.InputStream;
 @Service("textService")
 public class TextDataSource extends AbstractDataSource {
 
-    static Logger logger = LoggerFactory.getLogger(TextDataSource.class);
+    Logger logger = LoggerFactory.getLogger(TextDataSource.class);
 
     @PostConstruct
     @Override
@@ -21,9 +21,9 @@ public class TextDataSource extends AbstractDataSource {
         super.init();
         InputStream stream = this.getClass().getResourceAsStream("/example.json");
         try {
-            result = mapper.readValue(stream, EbayApiSearchResult.class);
+            result = getMapper().readValue(stream, EbayApiSearchResult.class);
         } catch (IOException e) {
-            logger.error("Error in tests", e);
+            logger.error(e.getMessage(), e);
         }
         logger.info("Text service initialized");
     }

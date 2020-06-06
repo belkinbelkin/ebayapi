@@ -31,14 +31,14 @@ public class EbayApiDataSource extends AbstractDataSource {
 
     @Override
     public EbayApiSearchResult searchApiCall(String query, String categoryIds) {
-        logger.info("Searching API with query: " + query + " and category ids: " + categoryIds);
+        System.out.println("Searching API with query: " + query);
         String request = configProperties.getEbayApiTemplate() + query;
         if (!categoryIds.equals("")) {
             request = request + "&category_ids=" + categoryIds;
         }
         try {
             String resultString = getRequestResultAsString(request);
-            return mapper.readValue(resultString, EbayApiSearchResult.class);
+            return getMapper().readValue(resultString, EbayApiSearchResult.class);
         } catch (Exception ex) {
             logger.error(ex.getMessage(), ex);
             return null;
@@ -50,7 +50,7 @@ public class EbayApiDataSource extends AbstractDataSource {
         String resultString;
         try {
             resultString = getRequestResultAsString(url);
-            return mapper.readValue(resultString, EbayApiSearchResult.class);
+            return getMapper().readValue(resultString, EbayApiSearchResult.class);
         } catch (IOException e) {
             logger.error(e.getMessage(), e);
             return null;
@@ -58,7 +58,7 @@ public class EbayApiDataSource extends AbstractDataSource {
 
     }
 
-    private String getRequestResultAsString(String request) throws IOException {
+    String getRequestResultAsString(String request) throws IOException {
         URL url;
         url = new URL(request);
         HttpURLConnection con;

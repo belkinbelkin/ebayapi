@@ -16,6 +16,10 @@ public abstract class AbstractDataSource implements IDataSource {
         mapper.configure(DeserializationFeature.FAIL_ON_MISSING_CREATOR_PROPERTIES, false);
     }
 
-    protected ObjectMapper mapper = new ObjectMapper();
+    private ObjectMapper mapper = new ObjectMapper();
+
+    public ObjectMapper getMapper(){
+        return mapper;
+    }
 
 }
